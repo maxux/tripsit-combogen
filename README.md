@@ -4,9 +4,10 @@
 
 ## How to run
 
-*   `cd` into root directory
-*   Run `npm i`
-*   Run `python3 -m combogen`
+*   `git clone` this repo
+*   `cd` to the project dir
+*   Run `npm install`
+*   Run `python -m combogen` (or `python3 -m combogen`)
 
 ## How to configure
 
