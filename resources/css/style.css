@@ -155,12 +155,35 @@ header {
   margin: 0 auto;
   table-layout: fixed;
 }
+
 #chart td {
   font-size: 1.1rem;
   color: #FFFFFF;
   border-radius: 1px;
   text-align: center;
   overflow: hidden;
+}
+
+.type-legend {
+    margin: 1rem auto 2rem auto;
+}
+
+.type-legend td {
+  font-family: 'Open Sans', 'Univers', sans-serif;
+  font-size: 1.4rem;
+  color: #FFFFFF;
+  border-radius: 1px;
+  text-align: center;
+  overflow: hidden;
+  padding: 0.5rem 2rem 0.5rem 2rem;
+}
+
+.no-margin {
+    margin: 0;
+}
+
+.label {
+    font-weight: bold;
 }
 
 /* #chart td span {
