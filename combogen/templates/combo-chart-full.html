@@ -19,15 +19,19 @@
     </header>
     {% include "combo-table.html" %}
     <footer>
+        <!--
         <div class="qr">
             <img src="{{ cfg.rel_resources_path }}/img/app_qr.svg" alt="app">
             <h3>{{ cfg.translate(lang, "app") }}</h3>
         </div>
+        -->
         <div id="disclaimer">{% include "disclaimer-" + lang + ".html" %}</div>
+        <!--
         <div class="qr">
             <img src="{{ cfg.rel_resources_path }}/img/support_qr.svg" alt="support">
             <h3>{{ cfg.translate(lang, "support") }}</h3>
         </div>
+        -->
     </footer>
 </div>
 </body>
