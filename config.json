@@ -3,6 +3,25 @@
   "version": "4.0",
   "tableOrder": [
     [
+      "Amphetamines",
+      "MDMA",
+      "Cocaine",
+      "Caffeine"
+    ],
+    [
+      "Ketamine",
+      "MXE",
+      "DXM",
+      "Nitrous"
+    ],
+    [
+      "Alcohol",
+      "GHB/GBL",
+      "Opioids",
+      "Tramadol",
+      "Benzodiazepines"
+    ],
+    [
       "LSD",
       "Mushrooms",
       "DMT",
@@ -15,34 +34,15 @@
       "Cannabis"
     ],
     [
-      "Ketamine",
-      "MXE",
-      "DXM",
-      "Nitrous"
-    ],
-    [
-      "Amphetamines",
-      "MDMA",
-      "Cocaine",
-      "Caffeine"
-    ],
-    [
-      "Alcohol",
-      "GHB/GBL",
-      "Opioids",
-      "Tramadol",
-      "Benzodiazepines"
-    ],
-    [
       "MAOIs",
       "SSRIs"
     ]
   ],
   "groupNames": [
-    "psychedelic",
-    "dissociative",
     "stimulant",
+    "dissociative",
     "depressant",
+    "psychedelic",
     "antidepressant"
   ],
   "rewriteInteraction": {
